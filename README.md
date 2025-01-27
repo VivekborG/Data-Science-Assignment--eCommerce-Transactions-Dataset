@@ -1,0 +1,1 @@
+This project involves analyzing three files: Customers.csv (customer information), Products.csv (product details), and Transactions.csv (historical purchase data). The task includes performing EDA, building predictive models, and deriving actionable insights for the eCommerce business.
